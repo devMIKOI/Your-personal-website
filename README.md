@@ -1,8 +1,8 @@
 # Your-personal-website
 Free Html Layout by MIKOI, watch demo at https://mikoi.space/projects/portfolio/index.html
 # Html
-  In head on "<title>" u can change title of website.
-  In "<h1>" and "<p>" u can write your name and something about you.
+  In head on title marker u can change title of website.
+  In h1  and p marker u can write your name and something about you.
   To add link to icon just edit a, change link-here to your link.
   To change Icons find your favorite on this site https://ionic.io/ionicons.
 # Css
