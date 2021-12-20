@@ -12,8 +12,9 @@ Free Html Layout by MIKOI, watch demo at https://mikoi.space/projects/portfolio/
   The recomended size of picture is 100px x 100px.
   In images folder change your avatar to avatar.jpg.
 # Look
-Dekstop View:
-![image](https://user-images.githubusercontent.com/83957083/146844842-b346edd3-6128-44b0-8439-b5b22a005359.png)
-Mobile View:
-![image](https://user-images.githubusercontent.com/83957083/146844955-7e6b05c0-876c-450e-b0bf-aaf2b94e4d1b.png)
+Dekstop View:<br />
+![image](https://user-images.githubusercontent.com/83957083/146844842-b346edd3-6128-44b0-8439-b5b22a005359.png)<br />
+Mobile View:<br />
+![image](https://user-images.githubusercontent.com/83957083/146845115-6a82f6f6-2eed-4b83-95f6-1f697c155f35.png)<br />
+
 
